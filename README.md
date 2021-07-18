@@ -4,14 +4,14 @@ Respositorio para el proyecto de introducción a la ciencia de datos, una materi
 
 1. PimeraEntrega
 
-Corresponde al documento en el que se presenta la información general del negocio y del problema.
+  Corresponde al documento en el que se presenta la información general del negocio y del problema.
 
 2. Inventario de datos
 
-Presenta la descripción general de las fuentes de información.
+  Presenta la descripción general de las fuentes de información.
 
 3. IDA
 
-Presenta 
+  Presenta 
 
 4. Video
