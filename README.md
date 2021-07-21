@@ -12,6 +12,12 @@ Respositorio para el proyecto de introducción a la ciencia de datos, una materi
 
 *3. IDA*
 
-  Presenta 
+  Analisis inicial de la data 
 
 *4. Video*
+
+Presentación del IDA
+
+*5. Estructura - Especificación del modelo*
+
+Definiciones para el modelo
